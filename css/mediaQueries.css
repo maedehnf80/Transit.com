@@ -2,4 +2,8 @@
     .About .About-bottom-content {
         flex-direction: column;
     }
+
+    .main h2 {
+        font-size: 30px;
+}
 }
