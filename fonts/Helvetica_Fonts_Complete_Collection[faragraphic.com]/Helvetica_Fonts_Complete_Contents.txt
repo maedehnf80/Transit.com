@@ -1,0 +1,514 @@
+GFXTRA.COM!
+
+Helvetica Fonts Complete\Helvetica Family
+
+Helvetica Bold                  
+Helvetica                       
+Helvetica-Black                 
+Helvetica-BlackOblique          
+Helvetica-Black-SemiBold        
+Helvetica-Bold                  
+Helvetica-BoldOblique           
+HelveticaBQ-Black               
+HelveticaBQ-BlackItalic         
+HelveticaBQ-Bold                
+HelveticaBQ-BoldItalic          
+HelveticaBQ-DemiBold            
+HelveticaBQ-DemiBoldItalic      
+HelveticaBQ-Italic              
+HelveticaBQ-Light               
+HelveticaBQ-LightItalic         
+HelveticaBQ-Medium              
+HelveticaBQ-MediumItalic        
+HelveticaBQ-Roman               
+HelveticaBQ-UltraLight          
+HelveticaCE                     
+HelveticaCE-Bold                
+HelveticaCE-BoldOblique         
+HelveticaCE-Cond                
+HelveticaCE-CondBold            
+HelveticaCE-CondBoldObl         
+HelveticaCE-CondObl             
+HelveticaCE-Narrow              
+HelveticaCE-NarrowBold          
+HelveticaCE-NarrowBoldOblique   
+HelveticaCE-NarrowOblique       
+HelveticaCE-Oblique             
+Helvetica-Compressed            
+HelveticaConBQ-Bold             
+HelveticaConBQ-ExtraLight       
+HelveticaConBQ-ExtraLightIta..  
+HelveticaConBQ-Light            
+HelveticaConBQ-LightItalic      
+HelveticaConBQ-Medium           
+Helvetica-Condensed             
+Helvetica-Condensed-Black       
+Helvetica-Condensed-BlackObl    
+Helvetica-Condensed-Black-Se    
+Helvetica-Condensed-Bold        
+Helvetica-Condensed-BoldObl     
+Helvetica-Condensed-Light       
+Helvetica-Condensed-Light-Li    
+Helvetica-Condensed-Light-Li..  
+Helvetica-Condensed-LightObl    
+Helvetica-Condensed-Oblique     
+Helvetica-Condensed-Thin        
+Helvetica-Conth                 
+HelveticaCyrA-Bold              
+HelveticaCyrA-BoldInclined      
+HelveticaCyrA-Inclined          
+HelveticaCyrA-Upright           
+HelveticaCyr-Bold               
+HelveticaCyr-BoldInclined       
+HelveticaCyr-Inclined           
+HelveticaCyr-Upright            
+HelveticaDiagonalBQ             
+HelveticaExtendedBQ-Bold        
+HelveticaExtendedBQ-ExtraLight  
+HelveticaExtendedBQ-Light       
+HelveticaExtendedBQ-Medium      
+HelveticaExt-No                 
+HelveticaExtO 2                 
+HelveticaExtO 3                 
+HelveticaExtO 4                 
+Helvetica-ExtraCompressed       
+Helvetica-Fraction              
+Helvetica-FractionBold          
+HelveticaFractionsBQ            
+HelveticaInseratBQ-Italic       
+HelveticaInseratBQ-Regular      
+HelveticaInseratCyr-Upright     
+HelveticaInseratLTStd-Roman     
+HelveticaInserat-Roman          
+HelveticaInserat-Roman-SemiB    
+HelveticaInserat-Roman-SemiB..  
+Helvetica-Light                 
+Helvetica-Light-Light-Italic    
+Helvetica-LightOblique          
+HelveticaLTStd- steevo -Roma..  
+HelveticaLTStd-Blk              
+HelveticaLTStd-BlkCond          
+HelveticaLTStd-BlkCondObl       
+HelveticaLTStd-BlkObl           
+HelveticaLTStd-Bold             
+HelveticaLTStd-BoldCond         
+HelveticaLTStd-BoldCondObl      
+HelveticaLTStd-BoldObl          
+HelveticaLTStd-Comp             
+HelveticaLTStd-Cond             
+HelveticaLTStd-CondObl          
+HelveticaLTStd-ExtraComp        
+HelveticaLTStd-Fractions        
+HelveticaLTStd-FractionsBd      
+HelveticaLTStd-Light            
+HelveticaLTStd-LightCond        
+HelveticaLTStd-LightCondObl     
+HelveticaLTStd-LightObl         
+HelveticaLTStd-Obl              
+HelveticaLTStd-Roman            
+HelveticaLTStd-UltraComp        
+Helvetica-Narrow                
+Helvetica-Narrow-Bold           
+Helvetica-Narrow-BoldItalic     
+Helvetica-Narrow-BoldOblique    
+Helvetica-Narrow-Italic         
+Helvetica-Narrow-Oblique        
+HelveticaNeue-Black             
+HelveticaNeue-BlackCond         
+HelveticaNeue-BlackCondObl      
+HelveticaNeue-BlackExt          
+HelveticaNeue-BlackExtObl       
+HelveticaNeue-BlackItalic       
+HelveticaNeue-Bold              
+HelveticaNeue-BoldCond          
+HelveticaNeue-BoldCondObl       
+HelveticaNeue-BoldExt           
+HelveticaNeue-BoldExtObl        
+HelveticaNeue-BoldItalic        
+HelveticaNeue-BoldOutline       
+HelveticaNeue-Condensed         
+HelveticaNeue-CondensedObl      
+HelveticaNeue-ExtBlackCond      
+HelveticaNeue-ExtBlackCondObl   
+HelveticaNeue-Extended          
+HelveticaNeue-ExtendedObl       
+HelveticaNeue-Heavy             
+HelveticaNeue-HeavyCond         
+HelveticaNeue-HeavyCondObl      
+HelveticaNeue-HeavyExt          
+HelveticaNeue-HeavyExtObl       
+HelveticaNeue-HeavyItalic       
+HelveticaNeue-Italic            
+HelveticaNeue-Light             
+HelveticaNeue-LightCond         
+HelveticaNeue-LightCondObl      
+HelveticaNeue-LightExt          
+HelveticaNeue-LightExtObl       
+HelveticaNeue-LightItalic       
+HelveticaNeueLT-BlackCond       
+HelveticaNeueLT-BlackCondObl    
+HelveticaNeueLT-BlackExt        
+HelveticaNeueLT-BlackExtObl     
+HelveticaNeueLT-BoldCond        
+HelveticaNeueLT-BoldCondObl     
+HelveticaNeueLT-BoldExt         
+HelveticaNeueLT-BoldExtObl      
+HelveticaNeueLT-BoldOutline     
+HelveticaNeueLT-Condensed       
+HelveticaNeueLT-CondensedObl    
+HelveticaNeueLT-ExtBlackCond    
+HelveticaNeueLT-ExtBlackCond..  
+HelveticaNeueLT-Extended        
+HelveticaNeueLT-ExtendedObl     
+HelveticaNeueLT-HeavyCond       
+HelveticaNeueLT-HeavyCondObl    
+HelveticaNeueLT-HeavyExt        
+HelveticaNeueLT-HeavyExtObl     
+HelveticaNeueLT-LightCond       
+HelveticaNeueLT-LightCondObl    
+HelveticaNeueLT-LightExt        
+HelveticaNeueLT-LightExtObl     
+HelveticaNeueLT-MediumCond      
+HelveticaNeueLT-MediumCondObl   
+HelveticaNeueLT-MediumExt       
+HelveticaNeueLT-MediumExtObl    
+HelveticaNeueLTStd-Bd           
+HelveticaNeueLTStd-BdCn         
+HelveticaNeueLTStd-BdCnO        
+HelveticaNeueLTStd-BdEx         
+HelveticaNeueLTStd-BdExO        
+HelveticaNeueLTStd-BdIt         
+HelveticaNeueLTStd-BdOu         
+HelveticaNeueLTStd-Blk          
+HelveticaNeueLTStd-BlkCn        
+HelveticaNeueLTStd-BlkCnO       
+HelveticaNeueLTStd-BlkEx        
+HelveticaNeueLTStd-BlkExO       
+HelveticaNeueLTStd-BlkIt        
+HelveticaNeueLTStd-Cn           
+HelveticaNeueLTStd-CnO          
+HelveticaNeueLTStd-Ex           
+HelveticaNeueLTStd-ExO          
+HelveticaNeueLTStd-Hv           
+HelveticaNeueLTStd-HvCn         
+HelveticaNeueLTStd-HvCnO        
+HelveticaNeueLTStd-HvEx         
+HelveticaNeueLTStd-HvExO        
+HelveticaNeueLTStd-HvIt         
+HelveticaNeueLTStd-It           
+HelveticaNeueLTStd-Lt           
+HelveticaNeueLTStd-LtCn         
+HelveticaNeueLTStd-LtCnO        
+HelveticaNeueLTStd-LtEx         
+HelveticaNeueLTStd-LtExO        
+HelveticaNeueLTStd-LtIt         
+HelveticaNeueLTStd-Md           
+HelveticaNeueLTStd-MdCn         
+HelveticaNeueLTStd-MdCnO        
+HelveticaNeueLTStd-MdEx         
+HelveticaNeueLTStd-MdExO        
+HelveticaNeueLTStd-MdIt         
+HelveticaNeueLTStd-Roman        
+HelveticaNeueLTStd-Th           
+HelveticaNeueLTStd-ThCn         
+HelveticaNeueLTStd-ThCnO        
+HelveticaNeueLTStd-ThEx         
+HelveticaNeueLTStd-ThExO        
+HelveticaNeueLTStd-ThIt         
+HelveticaNeueLTStd-UltLt        
+HelveticaNeueLTStd-UltLtCn      
+HelveticaNeueLTStd-UltLtCnO     
+HelveticaNeueLTStd-UltLtEx      
+HelveticaNeueLTStd-UltLtExO     
+HelveticaNeueLTStd-UltLtIt      
+HelveticaNeueLTStd-XBlkCn       
+HelveticaNeueLTStd-XBlkCnO      
+HelveticaNeueLT-ThinCond        
+HelveticaNeueLT-ThinCondObl     
+HelveticaNeueLT-ThinExt         
+HelveticaNeueLT-ThinExtObl      
+HelveticaNeueLT-UltraLigCond    
+HelveticaNeueLT-UltraLigCond..  
+HelveticaNeueLT-UltraLigExt     
+HelveticaNeueLT-UltraLigExtObl  
+HelveticaNeue-Medium            
+HelveticaNeue-MediumCond        
+HelveticaNeue-MediumCondObl     
+HelveticaNeue-MediumExt         
+HelveticaNeue-MediumExtObl      
+HelveticaNeue-MediumItalic      
+HelveticaNeue-Roman             
+HelveticaNeue-Thin              
+HelveticaNeue-ThinCond          
+HelveticaNeue-ThinCondObl       
+HelveticaNeue-ThinExt           
+HelveticaNeue-ThinExtObl        
+HelveticaNeue-ThinItalic        
+HelveticaNeue-UltraLigCond      
+HelveticaNeue-UltraLigCondObl   
+HelveticaNeue-UltraLigExt       
+HelveticaNeue-UltraLigExtObl    
+HelveticaNeue-UltraLight        
+HelveticaNeue-UltraLightItal    
+Helvetica-Normal                
+HelveticaObl-He                 
+Helvetica-Oblique               
+HelveticaObl-Li                 
+HelveticaObl-Th                 
+HelveticaRounded-Black          
+HelveticaRounded-BlackObl       
+HelveticaRounded-Bold           
+HelveticaRounded-BoldCond       
+HelveticaRounded-BoldCondObl    
+HelveticaRounded-BoldObl        
+HelveticaRoundedLT-Black        
+HelveticaRoundedLT-BlackObl     
+HelveticaRoundedLT-Bold         
+HelveticaRoundedLT-BoldCond     
+HelveticaRoundedLT-BoldCondObl  
+HelveticaRoundedLT-BoldObl      
+HelveticaRoundedLTStd-Bd        
+HelveticaRoundedLTStd-BdCn      
+HelveticaRoundedLTStd-BdCnO     
+HelveticaRoundedLTStd-BdO       
+HelveticaRoundedLTStd-Black     
+HelveticaRoundedLTStd-BlkO      
+HelveticaTwoBQ-Bold             
+HelveticaTwoBQ-BoldItalic       
+HelveticaTwoBQ-Italic           
+HelveticaTwoBQ-Roman            
+Helvetica-UltraCompressed       
+HelveticaWorld-Bold             
+HelveticaWorld-BoldItalic       
+HelveticaWorld-Italic           
+HelveticaWorld-Regular          
+HelvFB Bold                     
+HelvFB BoldOblique              
+HelvFB Oblique                  
+HelvFB                          
+HelvFB-Bold                     
+HelvFB-BoldOblique              
+HelvFB-Oblique                  
+HelvFE Bold                     
+HelvFE BoldOblique              
+HelvFE Oblique                  
+HelvFE                          
+HelvFE-Bold                     
+HelvFE-BoldOblique              
+HelvFE-Oblique                  
+HelvLight Regular               
+
+ 295 file(s) found
+ Total file size 10,230,388 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr
+
+HelveticaNeueCyr-Black          
+HelveticaNeueCyr-BlackItalic    
+HelveticaNeueCyr-Bold           
+HelveticaNeueCyr-BoldItalic     
+HelveticaNeueCyr-Heavy          
+HelveticaNeueCyr-HeavyItalic    
+HelveticaNeueCyr-Italic         
+HelveticaNeueCyr-Light          
+HelveticaNeueCyr-LightItalic    
+HelveticaNeueCyr-Medium         
+HelveticaNeueCyr-MediumItaicl   
+HelveticaNeueCyr-Roman          
+HelveticaNeueCyr-Thin           
+HelveticaNeueCyr-ThinItalic     
+HelveticaNeueCyr-UltraLight     
+HelveticaNeueCyr-UltraLightI..  
+
+ 16 file(s) found
+ Total file size 432,476 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\Mac
+
+ 0 file(s) found
+ Total file size 0 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\Mac\Helvetica Cyrillic 25-95
+
+AdobeFnt                        
+AdobeFnt.lst                    
+HelveNeuCyrBla                  
+HelveNeuCyrBlaIta               
+HelveNeuCyrUltLig               
+HelveNeuCyrUltLigIta            
+Helvetica Cyrillic 25-95        
+Helvetica Cyrillic 25-95        
+
+ 8 file(s) found
+ Total file size 304,815 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\Mac\Helvetica Cyrillic 25-95\AdobeFnt
+
+AdobeFnt.lst                    
+AdobeFnt.lst                    
+
+ 2 file(s) found
+ Total file size 5,218 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\Mac\Helvetica Cyrillic 35-55-75
+
+AdobeFnt.lst                    
+HelveNeuCyrBol                  
+HelveNeuCyrBolIta               
+HelveNeuCyrIta                  
+HelveNeuCyrRom                  
+HelveNeuCyrThi                  
+HelveNeuCyrThiIta               
+Helvetica Cyrillic 35-55-75     
+
+ 8 file(s) found
+ Total file size 386,066 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\Mac\Helvetica Cyrillic 45-65-85
+
+AdobeFnt.lst                    
+HelveNeuCyrHea                  
+HelveNeuCyrHeaIta               
+HelveNeuCyrLig                  
+HelveNeuCyrLigIta               
+HelveNeuCyrMed                  
+HelveNeuCyrMedIta               
+Helvetica Cyrillic 45-65-85     
+
+ 8 file(s) found
+ Total file size 390,450 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\PC(1)
+
+Helv-2-ULight                   
+Helv-2-ULight                   
+Helv-2-ULight-Italic            
+Helv-2-ULight-Italic            
+Helv-3-Thin                     
+Helv-3-Thin                     
+Helv-3-Thin-Italic              
+Helv-3-Thin-Italic              
+Helv-4-Light                    
+Helv-4-Light                    
+Helv-4-Light-Italic             
+Helv-4-Light-Italic             
+Helv-5-Normal                   
+Helv-5-Normal                   
+Helv-5-Normal-Italic            
+Helv-5-Normal-Italic            
+Helv-6-Medium                   
+Helv-6-Medium                   
+Helv-6-Medium-Italic            
+Helv-6-Medium-Italic            
+Helv-7-Bold                     
+Helv-7-Bold                     
+Helv-7-Bold-Italic              
+Helv-7-Bold-Italic              
+Helv-8-Heavy                    
+Helv-8-Heavy                    
+Helv-8-Heavy-Italic             
+Helv-8-Heavy-Italic             
+Helv-9-Black                    
+Helv-9-Black                    
+Helv-9-Black-Italic             
+Helv-9-Black-Italic             
+
+ 32 file(s) found
+ Total file size 548,349 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\PC(2)
+
+ 0 file(s) found
+ Total file size 0 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\PC(2)\Helvetica Cyrillic 25-95
+
+HELNCULI                        
+HELNCULI                        
+HELNCULI                        
+HELVENCB                        
+HELVENCB                        
+HELVENCB                        
+HELVNCBI                        
+HELVNCBI                        
+HELVNCBI                        
+HELVNCUL                        
+HELVNCUL                        
+HELVNCUL                        
+
+ 12 file(s) found
+ Total file size 179,097 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\PC(2)\Helvetica Cyrillic 35-55-75
+
+HELVENCB                        
+HELVENCB                        
+HELVENCB                        
+HELVENCI                        
+HELVENCI                        
+HELVENCI                        
+HELVENCR                        
+HELVENCR                        
+HELVENCR                        
+HELVENCT                        
+HELVENCT                        
+HELVENCT                        
+HELVNCBI                        
+HELVNCBI                        
+HELVNCBI                        
+HELVNCTI                        
+HELVNCTI                        
+HELVNCTI                        
+
+ 18 file(s) found
+ Total file size 264,165 bytes
+
+Helvetica Fonts Complete\Helvetica Neue Cyr\PC(2)\Helvetica Cyrillic 45-65-85
+
+HELVENCH                        
+HELVENCH                        
+HELVENCH                        
+HELVENCL                        
+HELVENCL                        
+HELVENCL                        
+HELVENCM                        
+HELVENCM                        
+HELVENCM                        
+HELVNCHI                        
+HELVNCHI                        
+HELVNCHI                        
+HELVNCLI                        
+HELVNCLI                        
+HELVNCLI                        
+HELVNCMI                        
+HELVNCMI                        
+HELVNCMI                        
+
+ 18 file(s) found
+ Total file size 266,643 bytes
+
+Helvetica Fonts Complete\HelveticaNeue47-57-67
+
+ 0 file(s) found
+ Total file size 0 bytes
+
+Helvetica Fonts Complete\HelveticaNeue47-57-67\T1
+
+HENLTCY2                        
+HENLTCY2                        
+HENLTCYR                        
+HENLTCYR                        
+HENLTCYR                        
+HENLTCYR                        
+
+ 6 file(s) found
+ Total file size 91,883 bytes
+
+Helvetica Fonts Complete\HelveticaNeue47-57-67\TTF
+
+LT_55413                        
+LT_55415                        
+LT_55417                        
+
+ 3 file(s) found
+ Total file size 219,900 bytes
