@@ -1,0 +1,5 @@
+@media (max-width:768px) {
+    .About .About-bottom-content {
+        flex-direction: column;
+    }
+}
