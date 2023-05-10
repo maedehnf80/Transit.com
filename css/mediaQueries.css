@@ -3,6 +3,13 @@
         flex-direction: column;
     }
 
+    .footer .footer-content{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+    }
+ 
+
 }
 
 @media (max-width:412px) {
@@ -36,7 +43,7 @@
     }
 
     .header .banner-content p {
-        font-size: 24px;
+        font-size: 18px;
 
     }
 }
