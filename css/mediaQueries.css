@@ -3,7 +3,11 @@
         flex-direction: column;
     }
 
-    .main h2 {
-        font-size: 30px;
+}
+
+@media (max-width:412px) {
+.main h2 {
+    font-size:30px;
 }
 }
+
